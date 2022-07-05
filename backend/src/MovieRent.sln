@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRent.API", "MovieRent.API\MovieRent.API.csproj", "{3D816EE7-A616-4210-BB1F-D29ADB14E60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{2509A4CE-705B-4CA8-AC4C-9052A4288330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{5E82EEEE-2D42-4827-8EEF-BC400AC610FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D816EE7-A616-4210-BB1F-D29ADB14E60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D816EE7-A616-4210-BB1F-D29ADB14E60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D816EE7-A616-4210-BB1F-D29ADB14E60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D816EE7-A616-4210-BB1F-D29ADB14E60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2509A4CE-705B-4CA8-AC4C-9052A4288330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2509A4CE-705B-4CA8-AC4C-9052A4288330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2509A4CE-705B-4CA8-AC4C-9052A4288330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2509A4CE-705B-4CA8-AC4C-9052A4288330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E82EEEE-2D42-4827-8EEF-BC400AC610FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E82EEEE-2D42-4827-8EEF-BC400AC610FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E82EEEE-2D42-4827-8EEF-BC400AC610FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E82EEEE-2D42-4827-8EEF-BC400AC610FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "woWLCrW8ZNeTXcU8YArvwiErv9BHGX4LfXQILkdMCGw=",
+  "Source": "MovieRent.API",
+  "BasePath": "_content/MovieRent.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

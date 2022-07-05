@@ -1,0 +1,11 @@
+README-ME
+
+CONFIGURAR O CONNECTION STRING DE ACORDO COM O SEU MYSQL
+SEU USER, SUA SENHA, PORTA...
+Basta buscar com um CTRL+SHIFT+F por ConnectionStrings e alterar nos dois arquivos que aparecerem
+
+O que não consegui fazer:
+- Os relatórios (todos)
+- No frontend não consegui formatar a data para mostrar corretamente
+- No TIPO do meu filme, usei um Enum e tipo problema para mostrar ele no frontend também
+- Teve algumas outros informações como o nome do cliente e titulo do filme, que também não consegui trazer no frontend na parte de LOCAÇÕES
